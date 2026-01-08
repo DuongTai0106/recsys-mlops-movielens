@@ -3,6 +3,19 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# data
+data/raw/
+data/processed/
+
+# artifacts (tuỳ, v1 có thể commit nhỏ, nhưng chưa cần tuần 1)
+artifacts/
+
+data/
+
+# env
+.venv/
+.env
+
 # C extensions
 *.so
 
